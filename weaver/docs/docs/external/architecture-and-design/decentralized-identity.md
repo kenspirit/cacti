@@ -40,7 +40,7 @@ An IIN can be built from scratch to facilitate blockchain interoperation, but it
 
 #### Interoperation Identity Network
 
-The ideal IIN architecture is illustrated in the figure below, inspired by Hyperleder Indy, whose architecture is used in our canonical (or reference) implementation. Built on a DLT itself, an Indy-based IIN can provide the combination of assurance and decentralization that a centralized registry cannot. Further, such an IIN will support the entire SSI and DID standard, maintaining credential schemas and verification keys, and issuing _verifiable credentials_ that can be used for privacy-preserving authentications.
+The ideal IIN architecture is illustrated in the figure below, inspired by Hyperledger Indy, whose architecture is used in our canonical (or reference) implementation. Built on a DLT itself, an Indy-based IIN can provide the combination of assurance and decentralization that a centralized registry cannot. Further, such an IIN will support the entire SSI and DID standard, maintaining credential schemas and verification keys, and issuing _verifiable credentials_ that can be used for privacy-preserving authentications.
 
 ![alt text](../../../static/architecture-assets/iin.jpg)
 

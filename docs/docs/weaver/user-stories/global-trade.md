@@ -60,7 +60,7 @@ This hazard can be avoided if the networks are interoperable, and can share data
 
 Step 4 in the [isolated trade finance network](./global-trade#trade-finance-network) is now replaced with an interoperation step (Step 10) whereby the trade finance network obtains a B/L from the trade logistics network via a data-sharing protocol. This avoids the hazard of having to depend on an unreliable seller to supply a valid B/L. But it is not enough for the trade logistics network to share B/L data. It must also share some _proof_ or evidence that the B/L is presently on record in its shared ledger.
 
-__Note: in general, an interoperation mechanism for data sharing must communicate data as well as an associated proof that can be _independently verified_ by every memebr of the receiving network.__
+__Note: in general, an interoperation mechanism for data sharing must communicate data as well as an associated proof that can be _independently verified_ by every member of the receiving network.__
 
 ## Extending the Scenario
 The above example conforms to how the logistics and finance processes work today. Letters of credit typically specify bills of lading among the lists of documents that must be supplied to claim a payment. But state-of-the-art blockchain technology and permissioned networks can facilitate a lot more process innovation than earlier technology could.
